@@ -1,3 +1,4 @@
+
 type ButtonPropsType = {
   callBack: ()=>void // НУЖНО ПРОТИПИЗИРОВАТЬ
   name: string // НУЖНО ПРОТИПИЗИРОВАТЬ
