@@ -1,5 +1,5 @@
 
-import {ChangeEvent, Dispatch, SetStateAction} from "react";
+import {ChangeEvent} from "react";
 
 type InputPropsType = {
 	currentText: string // НУЖНО ПРОТИПИЗИРОВАТЬ
