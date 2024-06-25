@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HW2-NEWyarn%20add%20gh-pages/static/css/main.073c9b0a.css",
+    "main.js": "/HW2-NEWyarn%20add%20gh-pages/static/js/main.e9034fd5.js",
+    "static/js/787.177e23c2.chunk.js": "/HW2-NEWyarn%20add%20gh-pages/static/js/787.177e23c2.chunk.js",
+    "index.html": "/HW2-NEWyarn%20add%20gh-pages/index.html",
+    "main.073c9b0a.css.map": "/HW2-NEWyarn%20add%20gh-pages/static/css/main.073c9b0a.css.map",
+    "main.e9034fd5.js.map": "/HW2-NEWyarn%20add%20gh-pages/static/js/main.e9034fd5.js.map",
+    "787.177e23c2.chunk.js.map": "/HW2-NEWyarn%20add%20gh-pages/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e9034fd5.js"
+  ]
+}
